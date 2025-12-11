@@ -8,4 +8,3 @@ JavaScript
 
 Authors
 Abdulai Thaimu  Kamara
-Abdul Rahim Conteh
